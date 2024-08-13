@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Use Meaningful Variable Names",
+      "description": "Always use descriptive and meaningful variable names that make the purpose of the variable clear.",
+      "language": "JavaScript"
+    },
+    {
+      "id": 2,
+      "title": "Keep Functions Small",
+      "description": "Write small, single-purpose functions to make your code easier to test and maintain.",
+      "language": "Python"
+    },
+    {
+      "id": 3,
+      "title": "Use Version Control",
+      "description": "Always use version control, such as Git, to track changes in your codebase.",
+      "language": "General"
+    },
+    {
+      "id": 4,
+      "title": "Avoid Global Variables",
+      "description": "Minimize the use of global variables to reduce the risk of bugs caused by variable scope issues.",
+      "language": "C++"
+    },
+    {
+      "id": 5,
+      "title": "Comment Your Code Wisely",
+      "description": "Write comments to explain why you did something, rather than what the code is doing.",
+      "language": "Java"
+    },
+    {
+      "id": 6,
+      "title": "Understand Asynchronous Programming",
+      "description": "Learn how to work with async code to avoid blocking the main thread, especially in JavaScript.",
+      "language": "JavaScript"
+    },
+    {
+      "id": 7,
+      "title": "Use List Comprehensions",
+      "description": "In Python, use list comprehensions for more concise and readable code.",
+      "language": "Python"
+    },
+    {
+      "id": 8,
+      "title": "Avoid Premature Optimization",
+      "description": "Don’t optimize your code until you know it’s necessary. Focus on writing clear and correct code first.",
+      "language": "General"
+    },
+    {
+      "id": 9,
+      "title": "Use Meaningful Commit Messages",
+      "description": "Write commit messages that clearly describe the changes you made and why.",
+      "language": "Git"
+    },
+    {
+      "id": 10,
+      "title": "Learn and Use Design Patterns",
+      "description": "Understand common design patterns to solve recurring problems in software design effectively.",
+      "language": "Java"
+    }
+  ]
+  
